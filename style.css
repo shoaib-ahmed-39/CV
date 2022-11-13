@@ -1,0 +1,46 @@
+body {
+    background-color: #e6ffff
+   }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+   }
+
+h1{
+  color:  #004080;
+}
+
+img{
+  length:150px;
+  width:150px;
+  border-radius: 75px;
+}
+
+td{
+  padding: 2px 4px 4px 6px;
+}
+
+.skills{
+  height:100px;
+  width:250px;
+  border:solid 2px;
+  border-radius:10px;
+}
+
+.EducationTable{
+  border: solid 2px;
+  border-radius:10px;
+}
+
+h3{
+  font-family: sans-serif;
+}
+
+.ContactMe{
+  font-family: sans-serif;
+  font-style: bold;
+}
